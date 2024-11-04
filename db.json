@@ -1,0 +1,167 @@
+{
+  "hassanaOffers":{
+    [
+  {
+    "title": "CFO - Blessed with a BABY BOY!!!",
+    "name": "John David",
+    "code": "256325",
+    "contactInfo": "0332569986",
+    "entryDate": "11/13/2023 09:00 AM",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Manager - Promoted to Senior Manager",
+    "name": "Sarah Williams",
+    "code": "256326",
+    "contactInfo": "0332569987",
+    "entryDate": "11/14/2023 10:00 AM",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "title": "CEO - Welcomes a new granddaughter",
+    "name": "Michael Brown",
+    "code": "256327",
+    "contactInfo": "0332569988",
+    "entryDate": "11/15/2023 11:00 AM",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "title": "CTO - Announces Retirement",
+    "name": "David Smith",
+    "code": "256328",
+    "contactInfo": "0332569989",
+    "entryDate": "11/16/2023 12:00 PM",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "title": "COO - Celebrates 10 Years with the Company",
+    "name": "Jessica Johnson",
+    "code": "256329",
+    "contactInfo": "0332569990",
+    "entryDate": "11/17/2023 01:00 PM",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  {
+    "title": "Director - Honored as Employee of the Year",
+    "name": "William Taylor",
+    "code": "256330",
+    "contactInfo": "0332569991",
+    "entryDate": "11/18/2023 02:00 PM",
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit."
+  },
+  {
+    "title": "VP - Completes Major Project",
+    "name": "Emily Martinez",
+    "code": "256331",
+    "contactInfo": "0332569992",
+    "entryDate": "11/19/2023 03:00 PM",
+    "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
+  },
+  {
+    "title": "Analyst - Earns Certification",
+    "name": "Christopher White",
+    "code": "256332",
+    "contactInfo": "0332569993",
+    "entryDate": "11/20/2023 04:00 PM",
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+  },
+  {
+    "title": "Supervisor - Awarded Team Leadership Award",
+    "name": "Laura Clark",
+    "code": "256333",
+    "contactInfo": "0332569994",
+    "entryDate": "11/21/2023 05:00 PM",
+    "description": "Vel illum qui dolorem eum fugiat quo voluptas nulla pariatur."
+  },
+  {
+    "title": "Manager - Marks 5 Years with the Company",
+    "name": "Daniel Lewis",
+    "code": "256334",
+    "contactInfo": "0332569995",
+    "entryDate": "11/22/2023 06:00 PM",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+  },
+  {
+    "title": "CFO - Achieves Industry Award",
+    "name": "Sophia Walker",
+    "code": "256335",
+    "contactInfo": "0332569996",
+    "entryDate": "11/23/2023 07:00 PM",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "title": "VP - Presented with Innovation Award",
+    "name": "Andrew Hall",
+    "code": "256336",
+    "contactInfo": "0332569997",
+    "entryDate": "11/24/2023 08:00 PM",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "title": "Director - Celebrates New Family Addition",
+    "name": "Amanda Allen",
+    "code": "256337",
+    "contactInfo": "0332569998",
+    "entryDate": "11/25/2023 09:00 AM",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "title": "IT Specialist - Receives Employee Excellence Award",
+    "name": "Steven Young",
+    "code": "256338",
+    "contactInfo": "0332569999",
+    "entryDate": "11/26/2023 10:00 AM",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "title": "COO - Reaches Important Milestone",
+    "name": "Ashley King",
+    "code": "256339",
+    "contactInfo": "0332569900",
+    "entryDate": "11/27/2023 11:00 AM",
+    "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet."
+  },
+  {
+    "title": "HR Manager - Announces Engagement",
+    "name": "Thomas Scott",
+    "code": "256340",
+    "contactInfo": "0332569901",
+    "entryDate": "11/28/2023 12:00 PM",
+    "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "title": "Sales Lead - Celebrates Sales Record",
+    "name": "Isabella Green",
+    "code": "256341",
+    "contactInfo": "0332569902",
+    "entryDate": "11/29/2023 01:00 PM",
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem."
+  },
+  {
+    "title": "Engineer - Completes Advanced Training",
+    "name": "James Adams",
+    "code": "256342",
+    "contactInfo": "0332569903",
+    "entryDate": "11/30/2023 02:00 PM",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "title": "Marketing Manager - Wins Industry Recognition",
+    "name": "Olivia Baker",
+    "code": "256343",
+    "contactInfo": "0332569904",
+    "entryDate": "12/01/2023 03:00 PM",
+    "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "title": "Finance Analyst - Joins New Project",
+    "name": "Matthew Roberts",
+    "code": "256344",
+    "contactInfo": "0332569905",
+    "entryDate": "12/02/2023 04:00 PM",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
+
+  }
+}
